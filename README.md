@@ -1,6 +1,6 @@
 # Python REST API
 
-A simple REST API built using Python and FastAPI.
+A REST API developed using Python and FastAPI.
 
 ## Requirements
 
