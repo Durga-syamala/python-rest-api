@@ -1,7 +1,7 @@
 # Python REST API
 
-A simple REST API built using Python and FastAPI.
 
+A beginner-friendly REST API built with FastAPI and Python.
 ## Requirements
 
 - Python 3.11
