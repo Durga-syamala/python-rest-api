@@ -1,7 +1,6 @@
 # Python REST API
+A beginner-friendly REST API developed using Python and FastAPI.
 
-
-A beginner-friendly REST API built with FastAPI and Python.
 ## Requirements
 
 - Python 3.11
@@ -13,3 +12,4 @@ A beginner-friendly REST API built with FastAPI and Python.
 
 ```bash
 uvicorn main:app --reload
+```
